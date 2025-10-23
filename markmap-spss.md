@@ -4,7 +4,7 @@ markmap:
   colorFreezeLevel: 2
   maxWidth: 500
   spacingVertical: 50
-  initialExpandLevel: 3
+  initialExpandLevel: 2
 ---
 
 # SPSS in education
